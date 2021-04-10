@@ -5,7 +5,7 @@
   "scripts": {
     "_test": "deno test test",
     "lint": "deno fmt src && deno fmt test",
-    "start": "npx arc sandbox"
+    "start": "arc sandbox"
   },
   "devDependencies": {
     "@architect/sandbox": "^3.1.3",

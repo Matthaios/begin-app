@@ -1,7 +1,9 @@
+
 @app
-deno-ssr
+evergrow
 
 @static
+folder dist
 
 @http
 get /
